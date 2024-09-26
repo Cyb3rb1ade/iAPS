@@ -2752,6 +2752,9 @@
 		388E595025AD948C0019842D /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					New,
+				);
 				LastUpgradeCheck = 1240;
 				TargetAttributes = {
 					388E595725AD948C0019842D = {
@@ -3814,7 +3817,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = ru.artpancreas.FreeAPSTests;
+				PRODUCT_BUNDLE_IDENTIFIER = ru.artpancreas.FreeAPSTests.diapi;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -3835,7 +3838,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = ru.artpancreas.FreeAPSTests;
+				PRODUCT_BUNDLE_IDENTIFIER = ru.artpancreas.FreeAPSTests.diapi;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
